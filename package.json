@@ -1,0 +1,11 @@
+{
+  "name": "mml-ms2mml",
+  "version": "1.0.0",
+  "description": "Turns .mml files into .ms2mml files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js default.mml"
+  },
+  "author": "YabaiNyan",
+  "license": "ISC"
+}
